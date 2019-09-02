@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Manjari&display=swap');
+
+body {
+  background-color: antiquewhite;
+  font-family: 'Manjari', sans-serif;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
